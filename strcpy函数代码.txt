@@ -1,6 +1,6 @@
 char * strcpy(char * str)
 {
- nt l=len(src);
+int l=len(src);
 char * det =(char *) malloc(i+1);
 for (int i = 0;i<=l;i++)
 dst[i] =src[i];
