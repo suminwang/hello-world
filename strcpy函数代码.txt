@@ -1,11 +1,12 @@
 char * strCpy(char * str)
 {
-int l=len(src);
+int l = len(src);
 char * det =(char *) malloc(i+1);
 for (int i = 0;i<=l;i++)
 dst[i] =src[i];
 dst[l] ='\0';
 return  dst;
 }
+
 /*
 B21032301 王苏敏*/
