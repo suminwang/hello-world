@@ -1,4 +1,4 @@
-char * strcpy(char * str)
+char * strCpy(char * str)
 {
 int l=len(src);
 char * det =(char *) malloc(i+1);
@@ -7,3 +7,5 @@ dst[i] =src[i];
 dst[l] ='\0';
 return  dst;
 }
+/*
+B21032301 王苏敏*/
